@@ -114,6 +114,6 @@ skill はタスク向けに最適ですが、より高度な作業には [カス
 - [awesome-copilot の Agent Skills][awesome-copilot-skills]
 
 [previous-lesson]: ../4-mcp/
-[next-lesson]: ../6-custom-agents/
+[next-lesson]: ../6-mcp-playwright/
 [about-agent-skills]: https://docs.github.com/copilot/concepts/agents/about-agent-skills
 [awesome-copilot-skills]: https://github.com/github/awesome-copilot/tree/main/skills
